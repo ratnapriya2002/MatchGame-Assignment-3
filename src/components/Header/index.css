@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  padding: 10px;
+}
+
+.nav-menu {
+  display: flex;
+}
+.logo-style {
+  height: 35px;
+  width: 35px;
+}
+.nav-link {
+  font-family: Roboto;
+  margin-right: 25px;
+  font-weight: bolder;
+  color: #12022f;
+  border: none;
+}
+.list-style {
+  list-style-type: none;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.logo-heading {
+  font-family: Roboto;
+  margin-left: 10px;
+  font-weight: bolder;
+  color: #12022f;
+}
